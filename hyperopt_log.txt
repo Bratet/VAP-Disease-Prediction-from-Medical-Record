@@ -1,0 +1,155 @@
+Trial params: {"dropout": 0.8408522816126902, "ff_dim": 24.381372785583814, "learning_rate": 0.021799274327971557, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.11719570046212674}
+Loss: 1.2396814064546064
+
+Trial params: {"dropout": 0.5296711397531702, "ff_dim": 58.22427547991483, "learning_rate": 0.003662087783348951, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.09845426501084271}
+Loss: 0.5322987383062189
+
+Trial params: {"dropout": 0.57690064136275, "ff_dim": 43.027703993310624, "learning_rate": 0.0027390466443273065, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.004313595469106778}
+Loss: 0.4762602556835521
+
+Trial params: {"dropout": 0.6923469225387663, "ff_dim": 31.53957446036518, "learning_rate": 0.03636607783445205, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.00462278689701766}
+Loss: 0.487845160744407
+
+Trial params: {"dropout": 0.8043852210718415, "ff_dim": 36.23173093386738, "learning_rate": 0.05535043795436951, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0214668850591133}
+Loss: 5.644035816192627
+
+Trial params: {"dropout": 0.8151428480469973, "ff_dim": 37.16130002641917, "learning_rate": 0.004248348320825001, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.030454138726447665}
+Loss: 0.6873543533411893
+
+Trial params: {"dropout": 0.8092690244356329, "ff_dim": 42.49833375478808, "learning_rate": 0.004300849726341947, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.002542195224688249}
+Loss: 1.1279913620515303
+
+Trial params: {"dropout": 0.8093165164500663, "ff_dim": 46.59887452700159, "learning_rate": 0.012307515632004148, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.004906924646760218}
+Loss: 0.4814258001067422
+
+Trial params: {"dropout": 0.5693941255318824, "ff_dim": 16.358813201393374, "learning_rate": 0.04107346708857073, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.055147728630445245}
+Loss: 0.5738352726806294
+
+Trial params: {"dropout": 0.6986721287603087, "ff_dim": 59.5598516186172, "learning_rate": 0.06290275899505086, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.006405027560708507}
+Loss: 0.5440896586938337
+
+Trial params: {"dropout": 0.7999901787530461, "ff_dim": 53.261861158898, "learning_rate": 0.03391035474944702, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.03172400353923365}
+Loss: 0.5014264664866708
+
+Trial params: {"dropout": 0.8969724936469421, "ff_dim": 57.222648892167165, "learning_rate": 0.02041669472737263, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.01318093034748264}
+Loss: 0.5314485593275591
+
+Trial params: {"dropout": 0.5176741549756152, "ff_dim": 42.37288011109011, "learning_rate": 0.004240656064318577, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002976315972464522}
+
+
+Trial params: {"dropout": 0.8408522816126902, "ff_dim": 24.381372785583814, "learning_rate": 0.021799274327971557, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.11719570046212674}
+Loss: 1.2396814064546064
+
+Trial params: {"dropout": 0.5296711397531702, "ff_dim": 58.22427547991483, "learning_rate": 0.003662087783348951, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.09845426501084271}
+Loss: 0.5322987383062189
+
+Trial params: {"dropout": 0.57690064136275, "ff_dim": 43.027703993310624, "learning_rate": 0.0027390466443273065, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.004313595469106778}
+Loss: 0.4762602556835521
+
+Trial params: {"dropout": 0.6923469225387663, "ff_dim": 31.53957446036518, "learning_rate": 0.03636607783445205, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.00462278689701766}
+Loss: 0.487845160744407
+
+Trial params: {"dropout": 0.8043852210718415, "ff_dim": 36.23173093386738, "learning_rate": 0.05535043795436951, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0214668850591133}
+Loss: 5.644035816192627
+
+Trial params: {"dropout": 0.8151428480469973, "ff_dim": 37.16130002641917, "learning_rate": 0.004248348320825001, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.030454138726447665}
+Loss: 0.6873543533411893
+
+Trial params: {"dropout": 0.8092690244356329, "ff_dim": 42.49833375478808, "learning_rate": 0.004300849726341947, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.002542195224688249}
+Loss: 1.1279913620515303
+
+Trial params: {"dropout": 0.8093165164500663, "ff_dim": 46.59887452700159, "learning_rate": 0.012307515632004148, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.004906924646760218}
+Loss: 0.4814258001067422
+
+Trial params: {"dropout": 0.5693941255318824, "ff_dim": 16.358813201393374, "learning_rate": 0.04107346708857073, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.055147728630445245}
+Loss: 0.5738352726806294
+
+Trial params: {"dropout": 0.6986721287603087, "ff_dim": 59.5598516186172, "learning_rate": 0.06290275899505086, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.006405027560708507}
+Loss: 0.5440896586938337
+
+Trial params: {"dropout": 0.7999901787530461, "ff_dim": 53.261861158898, "learning_rate": 0.03391035474944702, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.03172400353923365}
+Loss: 0.5014264664866708
+
+Trial params: {"dropout": 0.8969724936469421, "ff_dim": 57.222648892167165, "learning_rate": 0.02041669472737263, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.01318093034748264}
+Loss: 0.5314485593275591
+
+Trial params: {"dropout": 0.5176741549756152, "ff_dim": 42.37288011109011, "learning_rate": 0.004240656064318577, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002976315972464522}
+
+
+
+Trial params: {"dropout": 0.8408522816126902, "ff_dim": 24.381372785583814, "learning_rate": 0.021799274327971557, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.11719570046212674}
+Loss: 1.2396814064546064
+
+Trial params: {"dropout": 0.5296711397531702, "ff_dim": 58.22427547991483, "learning_rate": 0.003662087783348951, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.09845426501084271}
+Loss: 0.5322987383062189
+
+Trial params: {"dropout": 0.57690064136275, "ff_dim": 43.027703993310624, "learning_rate": 0.0027390466443273065, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.004313595469106778}
+Loss: 0.4762602556835521
+
+Trial params: {"dropout": 0.6923469225387663, "ff_dim": 31.53957446036518, "learning_rate": 0.03636607783445205, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.00462278689701766}
+Loss: 0.487845160744407
+
+Trial params: {"dropout": 0.8043852210718415, "ff_dim": 36.23173093386738, "learning_rate": 0.05535043795436951, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0214668850591133}
+Loss: 5.644035816192627
+
+Trial params: {"dropout": 0.8151428480469973, "ff_dim": 37.16130002641917, "learning_rate": 0.004248348320825001, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.030454138726447665}
+Loss: 0.6873543533411893
+
+Trial params: {"dropout": 0.8092690244356329, "ff_dim": 42.49833375478808, "learning_rate": 0.004300849726341947, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.002542195224688249}
+Loss: 1.1279913620515303
+
+Trial params: {"dropout": 0.8093165164500663, "ff_dim": 46.59887452700159, "learning_rate": 0.012307515632004148, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.004906924646760218}
+Loss: 0.4814258001067422
+
+Trial params: {"dropout": 0.5693941255318824, "ff_dim": 16.358813201393374, "learning_rate": 0.04107346708857073, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.055147728630445245}
+Loss: 0.5738352726806294
+
+Trial params: {"dropout": 0.6986721287603087, "ff_dim": 59.5598516186172, "learning_rate": 0.06290275899505086, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.006405027560708507}
+Loss: 0.5440896586938337
+
+Trial params: {"dropout": 0.7999901787530461, "ff_dim": 53.261861158898, "learning_rate": 0.03391035474944702, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.03172400353923365}
+Loss: 0.5014264664866708
+
+Trial params: {"dropout": 0.8969724936469421, "ff_dim": 57.222648892167165, "learning_rate": 0.02041669472737263, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.01318093034748264}
+Loss: 0.5314485593275591
+
+Trial params: {"dropout": 0.5176741549756152, "ff_dim": 42.37288011109011, "learning_rate": 0.004240656064318577, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002976315972464522}
+
+
+Trial params: {"dropout": 0.8408522816126902, "ff_dim": 24.381372785583814, "learning_rate": 0.021799274327971557, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.11719570046212674}
+Loss: 1.2396814064546064
+
+Trial params: {"dropout": 0.5296711397531702, "ff_dim": 58.22427547991483, "learning_rate": 0.003662087783348951, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.09845426501084271}
+Loss: 0.5322987383062189
+
+Trial params: {"dropout": 0.57690064136275, "ff_dim": 43.027703993310624, "learning_rate": 0.0027390466443273065, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.004313595469106778}
+Loss: 0.4762602556835521
+
+Trial params: {"dropout": 0.6923469225387663, "ff_dim": 31.53957446036518, "learning_rate": 0.03636607783445205, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.00462278689701766}
+Loss: 0.487845160744407
+
+Trial params: {"dropout": 0.8043852210718415, "ff_dim": 36.23173093386738, "learning_rate": 0.05535043795436951, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0214668850591133}
+Loss: 5.644035816192627
+
+Trial params: {"dropout": 0.8151428480469973, "ff_dim": 37.16130002641917, "learning_rate": 0.004248348320825001, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.030454138726447665}
+Loss: 0.6873543533411893
+
+Trial params: {"dropout": 0.8092690244356329, "ff_dim": 42.49833375478808, "learning_rate": 0.004300849726341947, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.002542195224688249}
+Loss: 1.1279913620515303
+
+Trial params: {"dropout": 0.8093165164500663, "ff_dim": 46.59887452700159, "learning_rate": 0.012307515632004148, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.004906924646760218}
+Loss: 0.4814258001067422
+
+Trial params: {"dropout": 0.5693941255318824, "ff_dim": 16.358813201393374, "learning_rate": 0.04107346708857073, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.055147728630445245}
+Loss: 0.5738352726806294
+
+Trial params: {"dropout": 0.6986721287603087, "ff_dim": 59.5598516186172, "learning_rate": 0.06290275899505086, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.006405027560708507}
+Loss: 0.5440896586938337
+
+Trial params: {"dropout": 0.7999901787530461, "ff_dim": 53.261861158898, "learning_rate": 0.03391035474944702, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.03172400353923365}
+Loss: 0.5014264664866708
+
+Trial params: {"dropout": 0.8969724936469421, "ff_dim": 57.222648892167165, "learning_rate": 0.02041669472737263, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.01318093034748264}
+Loss: 0.5314485593275591
+
+Trial params: {"dropout": 0.5176741549756152, "ff_dim": 42.37288011109011, "learning_rate": 0.004240656064318577, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002976315972464522}
