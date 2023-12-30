@@ -160,5 +160,3 @@ cython_debug/
 #.idea/
 
 data_m.csv
-
-bio.bin

@@ -1,207 +1,151 @@
-Trial params: {"dropout": 0.3093468736176669, "ff_dim": 122.20732185171764, "learning_rate": 0.013230753848471123, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.0014882472495803885}
-Trial params: {"dropout": 0.20150963032272548, "ff_dim": 63.31748836151603, "learning_rate": 0.012012116396794701, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.08017257301240815}
-Trial params: {"dropout": 0.7641932206478417, "ff_dim": 35.378661720850914, "learning_rate": 0.01602955523036825, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.019966829548615152}
-Trial params: {"dropout": 0.6876236373451851, "ff_dim": 102.95198296905535, "learning_rate": 0.025298673202905474, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.009475130666333854}
-Trial params: {"dropout": 0.8470808720221383, "ff_dim": 61.67946356142398, "learning_rate": 0.0338357967395258, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.04280629065207369}
-Trial params: {"dropout": 0.12284704438438548, "ff_dim": 16.24013892230415, "learning_rate": 0.0031170735383567547, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.006603455470364888}
-Trial params: {"dropout": 0.31692197644799636, "ff_dim": 91.80127679245295, "learning_rate": 0.026471506158636027, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.1240175283012139}
-Trial params: {"dropout": 0.8161032128834326, "ff_dim": 119.70146549399307, "learning_rate": 0.015462807508528143, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0037040137876121226}
-Loss: 0.2821995332837105, Accuracy: 0.95, F1: 0.8433333333333334
-Trial params: {"dropout": 0.5465944115875422, "ff_dim": 69.39329569445403, "learning_rate": 0.05437572644757439, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.02869815227326831}
-Loss: 14.470861053466797, Accuracy: 0.13035714285714287, F1: 0.2158036803238042
-Trial params: {"dropout": 0.4651168012601693, "ff_dim": 8.26473842033738, "learning_rate": 0.01332229876536749, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.005297302772452615}
-Loss: 0.44968036594800653, Accuracy: 0.91875, F1: 0.7624242424242423
-Trial params: {"dropout": 0.891663749710992, "ff_dim": 45.72725079243375, "learning_rate": 0.038650979224242134, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.007533223435946823}
-Loss: 0.546863341331482, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.7829265361257887, "ff_dim": 70.7746446154168, "learning_rate": 0.003281962013874106, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0012230188732961032}
-Loss: 0.04261714817257598, Accuracy: 0.975, F1: 0.8751515151515152
-Trial params: {"dropout": 0.33775258012636655, "ff_dim": 94.24964181612296, "learning_rate": 0.0640336266664446, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.08061231966879896}
-Loss: 0.09578475380549208, Accuracy: 0.9544642857142858, F1: 0.78
-Trial params: {"dropout": 0.5021999755790026, "ff_dim": 109.03749761055221, "learning_rate": 0.001846500341974837, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0844411609539221}
-Loss: 0.24605446606874465, Accuracy: 0.9357142857142857, F1: 0.5266666666666666
-Trial params: {"dropout": 0.3012087966850041, "ff_dim": 66.35754219586987, "learning_rate": 0.0011007075773404615, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0025153959095889035}
-Loss: 0.03703016615472734, Accuracy: 0.9875, F1: 0.8933333333333333
-Trial params: {"dropout": 0.7768567913811727, "ff_dim": 53.34396702188383, "learning_rate": 0.12535060192235042, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.008687464785965566}
-Loss: 1.4682516574859619, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.7420097394504925, "ff_dim": 19.473220705218445, "learning_rate": 0.025220485454798845, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.01777888322432035}
-Loss: 0.4224752426147461, Accuracy: 0.6366071428571429, F1: 0.38456454435321036
-Trial params: {"dropout": 0.23395035224452815, "ff_dim": 77.58352321237766, "learning_rate": 0.021029934611448697, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.003045823917644703}
-Loss: 0.5595147103071213, Accuracy: 0.9151785714285714, F1: 0.4666666666666666
-Trial params: {"dropout": 0.484545023254464, "ff_dim": 113.14017552721523, "learning_rate": 0.0012603887175944555, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0049167613004602}
-Loss: 1.4315330147743226, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.6681049414968295, "ff_dim": 69.5259271139874, "learning_rate": 0.001021205501374188, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.12318804948073792}
-Loss: 5.725805282592773, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.35455899291988524, "ff_dim": 90.1068218372323, "learning_rate": 0.006281774121182808, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.00458615938608809}
-Loss: 0.18602749537676572, Accuracy: 0.975, F1: 0.9028571428571428
-Trial params: {"dropout": 0.7140328785908511, "ff_dim": 88.03129787826698, "learning_rate": 0.00437517910536949, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.0012219208289273318}
-Loss: 0.5941084504127503, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.34199794742452283, "ff_dim": 104.48366334377971, "learning_rate": 0.0077634683090813915, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.0019728198017946457}
-Loss: 1.1429115056991577, Accuracy: 0.5598214285714286, F1: 0.3416723627249943
-Trial params: {"dropout": 0.2905679550087674, "ff_dim": 73.23930141424366, "learning_rate": 0.06959924716464863, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.005950564474726175}
-Loss: 0.879677927494049, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.5258759780714973, "ff_dim": 85.09242987030437, "learning_rate": 0.00663763606530532, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.010332938446536287}
-Loss: 2.03789381980896, Accuracy: 0.5830357142857142, F1: 0.3525159051474841
-Trial params: {"dropout": 0.540962751761202, "ff_dim": 95.662027336587, "learning_rate": 0.02142050664789193, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.04285221194058919}
-Loss: 3.7737162113189697, Accuracy: 0.24821428571428572, F1: 0.24312246892892056
-Trial params: {"dropout": 0.3427224634229755, "ff_dim": 81.85123542120743, "learning_rate": 0.0011277356433474304, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.07489938722351948}
-Loss: 0.3095778949558735, Accuracy: 0.925, F1: 0.7524242424242424
-Trial params: {"dropout": 0.18817237792973363, "ff_dim": 51.74155174164777, "learning_rate": 0.0027513991337875577, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0009204116344952227}
-Loss: 0.09300992665812373, Accuracy: 0.9732142857142858, F1: 0.8751515151515152
-Trial params: {"dropout": 0.1014142537680473, "ff_dim": 33.954163267439284, "learning_rate": 0.0029576434721758295, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002016037848051425}
-Loss: 10.973099517822266, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.6405642326522751, "ff_dim": 59.23759424781821, "learning_rate": 0.001926564435566982, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0013860227817698715}
-Loss: 2.6056045055389405, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.8684294017589118, "ff_dim": 35.75255700785504, "learning_rate": 0.0035597365714757933, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0009164493791621424}
-Loss: 0.04123832844416029, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.42481251050940816, "ff_dim": 32.463277015074084, "learning_rate": 0.0017026596778431553, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0024720680389778067}
-Loss: 0.2806446194648743, Accuracy: 0.9169642857142858, F1: 0.36
-Trial params: {"dropout": 0.1459207361345152, "ff_dim": 24.74984403904636, "learning_rate": 0.0038723691716837454, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0016505018282832722}
-Loss: 0.2711486428976059, Accuracy: 0.9294642857142857, F1: 0.49333333333333335
-Trial params: {"dropout": 0.8760809164029837, "ff_dim": 40.247048584392324, "learning_rate": 0.0021599007202707087, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.0010136311184596042}
-Loss: 0.7254644155502319, Accuracy: 0.6366071428571429, F1: 0.398792270531401
-Trial params: {"dropout": 0.4055222663216249, "ff_dim": 13.88921561923609, "learning_rate": 0.0049141763950100005, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.014563739625392454}
-Loss: 3.980337977409363, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.600218727743892, "ff_dim": 61.664022994826865, "learning_rate": 0.007939528277107926, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.003523681903988946}
-Loss: 0.7597949713468551, Accuracy: 0.9089285714285713, F1: 0.4238095238095238
-Trial params: {"dropout": 0.24043661649658754, "ff_dim": 26.758638819511585, "learning_rate": 0.0014530859140438888, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.003122719718373189}
-Loss: 1.6912811994552612, Accuracy: 0.4705357142857142, F1: 0.3051029430339775
-Trial params: {"dropout": 0.848594251480201, "ff_dim": 122.30784645401681, "learning_rate": 0.000931896431838451, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0009186190876612941}
-Loss: 0.5678110480308532, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.5992366584358342, "ff_dim": 42.04143649041665, "learning_rate": 0.014189397956378382, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.019951438362178515}
-Loss: 2.181576061248779, Accuracy: 0.5785714285714285, F1: 0.3502874902874903
-Trial params: {"dropout": 0.27200823234873067, "ff_dim": 8.41458165995651, "learning_rate": 0.0026317725206754902, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0023836187322831283}
-Loss: 0.248397111101076, Accuracy: 0.95, F1: 0.7980952380952381
-Trial params: {"dropout": 0.10078609162397845, "ff_dim": 59.18636856550975, "learning_rate": 0.011204038375618777, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.006473601783928702}
-Loss: 11.800518226623534, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.44448348232661083, "ff_dim": 47.129711903972066, "learning_rate": 0.0009136424103860664, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.031833800975548304}
-Loss: 0.18490092903375627, Accuracy: 0.9482142857142858, F1: 0.5418181818181818
-Trial params: {"dropout": 0.3946997760491973, "ff_dim": 35.55541815947333, "learning_rate": 0.001397716408261544, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0014744773957073253}
-Loss: 2.669638919830322, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.17378077488698784, "ff_dim": 64.83026638329609, "learning_rate": 0.005341832950839625, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.003979962728167253}
-Loss: 0.8906206965446473, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.7998501485095107, "ff_dim": 50.41847686399704, "learning_rate": 0.008938041087879513, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0010698056852080442}
-Loss: 1.3349320411682128, Accuracy: 0.8026785714285714, F1: 0.5254822954822955
-Trial params: {"dropout": 0.28626045776268216, "ff_dim": 99.1161102307845, "learning_rate": 0.0035965981620836905, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.008471222881258284}
-Loss: 0.4397030770778656, Accuracy: 0.9044642857142857, F1: 0.7147619047619047
-Trial params: {"dropout": 0.5939955894036869, "ff_dim": 16.733757249301355, "learning_rate": 0.040612716165902424, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0017842792918921708}
-Loss: 0.7630448043346405, Accuracy: 0.8651785714285714, F1: 0.6257575757575757
-Trial params: {"dropout": 0.2087654945074583, "ff_dim": 76.99679018379182, "learning_rate": 0.13394033936574912, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0026156131251071878}
-Loss: 1.9992364168167114, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.1392558077965933, "ff_dim": 55.23239101881988, "learning_rate": 0.002407815892262908, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.011637310681189261}
-Loss: 0.8754843354225159, Accuracy: 0.6080357142857142, F1: 0.36884057971014494
-Trial params: {"dropout": 0.6833055627453319, "ff_dim": 127.77494554305929, "learning_rate": 0.010890443849858373, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0042158682140114225}
-Loss: 1.1775614857673644, Accuracy: 0.7366071428571429, F1: 0.4625685425685425
-Trial params: {"dropout": 0.7432453331900626, "ff_dim": 26.015658328177715, "learning_rate": 0.001744604211300031, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.007050648820544822}
-Loss: 0.09321637265384197, Accuracy: 0.9669642857142857, F1: 0.8800000000000001
-Trial params: {"dropout": 0.467549730946069, "ff_dim": 43.997290333024694, "learning_rate": 0.09505494700360394, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.0012242311113491735}
-Loss: 2.175821399688721, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.3038180763562741, "ff_dim": 8.855264396640816, "learning_rate": 0.02845072349490226, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.02549358410021731}
-Loss: 2.0719282150268556, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.3651815161471874, "ff_dim": 72.90512262217197, "learning_rate": 0.01861992088832535, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.005162575712175964}
-Loss: 0.4516890227794647, Accuracy: 0.9294642857142857, F1: 0.7528571428571429
-Trial params: {"dropout": 0.8355050866815914, "ff_dim": 65.18326983044108, "learning_rate": 0.006001237447344179, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.002987337312182407}
-Loss: 0.3785244137048721, Accuracy: 0.9294642857142857, F1: 0.5266666666666666
-Trial params: {"dropout": 0.247153872965213, "ff_dim": 108.32589117282204, "learning_rate": 0.0012308650743707325, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.06160064326152924}
-Loss: 0.6553130269050598, Accuracy: 0.8821428571428571, F1: 0.1
-Trial params: {"dropout": 0.49139555399921925, "ff_dim": 38.06996642752428, "learning_rate": 0.0034815866637199927, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.011749305203505133}
-Loss: 0.6578247666358947, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.5708410880648201, "ff_dim": 79.85562820924288, "learning_rate": 0.0022467165682036835, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.001958143770415018}
-Loss: 0.02901324800477596, Accuracy: 0.99375, F1: 0.9818181818181818
-Trial params: {"dropout": 0.5144607642913204, "ff_dim": 101.9207892192428, "learning_rate": 0.001053910956376235, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.002115938540535487}
-Loss: 0.053761420189403, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.5626813127603734, "ff_dim": 91.62123053465126, "learning_rate": 0.001487612054994037, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.005893473951300103}
-Loss: 0.8800294935703278, Accuracy: 0.8821428571428571, F1: 0.13333333333333333
-Trial params: {"dropout": 0.6393948414646176, "ff_dim": 115.52659776369839, "learning_rate": 0.0021792802950801743, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.008135057015125723}
-Loss: 0.6348371148109436, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.567180834484341, "ff_dim": 79.97007929746317, "learning_rate": 0.004565802122010486, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.014739012850924209}
-Loss: 0.050403183164758045, Accuracy: 0.98125, F1: 0.8266666666666665
-Trial params: {"dropout": 0.3807301477377856, "ff_dim": 84.58984172168155, "learning_rate": 0.03372049794522948, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.1158667508315356}
-Loss: 5.9202922821044925, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.323069643491469, "ff_dim": 95.72304296922897, "learning_rate": 0.003057808020350325, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.009624573500095877}
-Loss: 0.08991399803708192, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.42202707479836843, "ff_dim": 68.96587164474126, "learning_rate": 0.04865084371466673, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.0016691417257961236}
-Loss: 0.5575181245803833, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.7079336170082284, "ff_dim": 87.19243103935545, "learning_rate": 0.0020026310510277384, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0035476372370591355}
-Loss: 1.4086225032806396, Accuracy: 0.6366071428571429, F1: 0.386969696969697
-Trial params: {"dropout": 0.7447585731587445, "ff_dim": 76.80683788198937, "learning_rate": 0.004179145374440314, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.0012516452630723404}
-Loss: 1.3531006813049316, Accuracy: 0.7116071428571429, F1: 0.4353463203463204
-Trial params: {"dropout": 0.633654670345811, "ff_dim": 108.90960793280341, "learning_rate": 0.0011822342450154761, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.004878242748205371}
-Loss: 1.2032646417617798, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.46094376887162336, "ff_dim": 56.00981762367017, "learning_rate": 0.01837600770292798, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0021571100802206134}
-Loss: 0.010407200627378188, Accuracy: 1.0, F1: 1.0
-Trial params: {"dropout": 0.5308189282434282, "ff_dim": 55.46154805662297, "learning_rate": 0.015951794471379916, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.03961956897105639}
-Loss: 0.040974209683190564, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.46808588379977734, "ff_dim": 61.2938899538229, "learning_rate": 0.08314167642547074, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.0029715746070044127}
-Loss: 15.173030662536622, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.7734639112290764, "ff_dim": 47.30257889675549, "learning_rate": 0.023844503010122073, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002134304499889015}
-Loss: 0.4463497042655945, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.32917476011925983, "ff_dim": 72.56239074170944, "learning_rate": 0.011926555849213616, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.001611205087405856}
-Loss: 18.058198165893554, Accuracy: 0.14910714285714285, F1: 0.21828267192044284
-Trial params: {"dropout": 0.44198165537002987, "ff_dim": 65.42628594929066, "learning_rate": 0.017695225621280522, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.002566046943745144}
-Loss: 4.17278823852539, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.36732502587722576, "ff_dim": 83.78789547320918, "learning_rate": 0.009185536430605224, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.001391450248215251}
-Loss: 13.583631896972657, Accuracy: 0.14910714285714285, F1: 0.21898123868712105
-Trial params: {"dropout": 0.49422423960076967, "ff_dim": 31.289221276182797, "learning_rate": 0.02865219529009755, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0010703724210042948}
-Loss: 13.416701698303223, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.564708164765636, "ff_dim": 57.6735455372356, "learning_rate": 0.0533096636613827, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.005800619146842417}
-Loss: 0.12515906747430564, Accuracy: 0.9482142857142858, F1: 0.8147619047619047
-Trial params: {"dropout": 0.4056329597795116, "ff_dim": 51.156499691257224, "learning_rate": 0.0075075089446088135, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0019165255562554222}
-Loss: 2.0622323036193846, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.6618513688921321, "ff_dim": 91.3716681636175, "learning_rate": 0.005501865621568679, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0044205349266660116}
-Loss: 22.93728675842285, Accuracy: 0.13660714285714287, F1: 0.21651669280152253
-Trial params: {"dropout": 0.20844601807601476, "ff_dim": 80.75481119426254, "learning_rate": 0.007029147691997391, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.003460206259552771}
-Loss: 15.490646171569825, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.13157189653573237, "ff_dim": 75.42982738809316, "learning_rate": 0.013362095570771771, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.002391704245158254}
-Loss: 17.001893043518066, Accuracy: 0.19642857142857145, F1: 0.23186147186147185
-Trial params: {"dropout": 0.4500582858275127, "ff_dim": 70.44766941516082, "learning_rate": 0.044406521889424774, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.00101899474247584}
-Loss: 0.6277885302901268, Accuracy: 0.8883928571428571, F1: 0.19047619047619047
-Trial params: {"dropout": 0.26646456566206606, "ff_dim": 62.384826681520686, "learning_rate": 0.06691868233286644, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.00395018449145965}
-Loss: 1.7710493564605714, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.346406476888928, "ff_dim": 49.35394362600329, "learning_rate": 0.009094368779223259, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.002877948376611299}
-Loss: 2.2320058822631834, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.6180435961132797, "ff_dim": 22.860586100115988, "learning_rate": 0.035607239937655, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0069690204444278325}
-Loss: 0.41518487930297854, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.5140096096884569, "ff_dim": 67.24677619791993, "learning_rate": 0.02162358387608019, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.018657815087243245}
-Loss: 0.06370417973957956, Accuracy: 0.98125, F1: 0.8533333333333333
-Trial params: {"dropout": 0.31311364336045294, "ff_dim": 39.75891436511764, "learning_rate": 0.0015708902805463202, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.01391366677689198}
-Loss: 0.045942173013463615, Accuracy: 0.98125, F1: 0.9047619047619048
-Trial params: {"dropout": 0.4761653041264135, "ff_dim": 44.35354649610147, "learning_rate": 0.0025358866991296697, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0014558235990116677}
-Loss: 1.1589202880859375, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.5450650772308853, "ff_dim": 28.915102102886543, "learning_rate": 0.0010143717902992837, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0012579236422518847}
-Loss: 0.5423862010240554, Accuracy: 0.8821428571428571, F1: 0.1
-Trial params: {"dropout": 0.4185041094949188, "ff_dim": 98.40082768832758, "learning_rate": 0.016206809002802025, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.0018510919155841229}
-Loss: 0.5189669132232666, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.5840171295254845, "ff_dim": 104.98686780239882, "learning_rate": 0.02913435922152762, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.002236228939721274}
-Loss: 0.0538556672167033, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.664722558211362, "ff_dim": 88.76533304770457, "learning_rate": 0.10931301937180994, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.009472243577220932}
-Loss: 1.0278734803199767, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.18150077647001556, "ff_dim": 54.04440644576188, "learning_rate": 0.003212453214013219, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.022514373395371764}
-Loss: 0.1752354957163334, Accuracy: 0.95625, F1: 0.7266666666666667
-Trial params: {"dropout": 0.3836119486842473, "ff_dim": 74.60434723952557, "learning_rate": 0.010718354796184921, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0009176596168598141}
-Loss: 0.8177580952644348, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.7071417457344601, "ff_dim": 93.80278464274511, "learning_rate": 0.006090724615863029, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0032115114152982756}
-Loss: 0.05341197941670543, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.29301360315839203, "ff_dim": 79.42359067669861, "learning_rate": 0.0009217978404101185, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0027540412806242886}
-Loss: 0.014473167061805726, Accuracy: 1.0, F1: 1.0
-Trial params: {"dropout": 0.11740335602729354, "ff_dim": 115.28243738337117, "learning_rate": 0.0013174937202936913, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0027702593319774513}
-Loss: 4.844530916213989, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.2161716932607792, "ff_dim": 124.92535647080247, "learning_rate": 0.0009353733213837222, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.005446576146152217}
-Loss: 0.031480617611669, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.1581777649891879, "ff_dim": 79.17173343999342, "learning_rate": 0.004021347803219368, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0016097225619159804}
-Loss: 0.0867588821798563, Accuracy: 0.9401785714285713, F1: 0.6951515151515151
-Trial params: {"dropout": 0.2707196970138789, "ff_dim": 57.30669014914679, "learning_rate": 0.004888616972485057, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.001121408505890973}
-Loss: 17.18964366912842, Accuracy: 0.19642857142857145, F1: 0.23122850122850122
-Trial params: {"dropout": 0.6903193869179179, "ff_dim": 86.78425455092629, "learning_rate": 0.00228965753991676, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0047577811828663896}
-Loss: 4.41963677406311, Accuracy: 0.2982142857142857, F1: 0.25225465096432836
-Trial params: {"dropout": 0.4485356074644935, "ff_dim": 71.3896971660866, "learning_rate": 0.057694443674044305, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.00730496683576193}
-Loss: 0.39934344291687013, Accuracy: 0.8758928571428571, F1: 0.0
-Trial params: {"dropout": 0.6176613114696922, "ff_dim": 63.02593055074456, "learning_rate": 0.0019373665286967008, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.003967304982051623}
-Loss: 11.87636432647705, Accuracy: 0.16160714285714287, F1: 0.21964474754248048
-Trial params: {"dropout": 0.2927636153569172, "ff_dim": 67.80817821374019, "learning_rate": 0.019159614477994587, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.006313397075641458}
-Loss: 4.237296295166016, Accuracy: 0.12410714285714286, F1: 0.21509066784608583
-Trial params: {"dropout": 0.5046400992664974, "ff_dim": 105.07003116033823, "learning_rate": 0.025621634016832134, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0033021827985178186}
-Loss: 0.26464681066572665, Accuracy: 0.9482142857142858, F1: 0.8360439560439559
-Trial params: {"dropout": 0.5286440083482672, "ff_dim": 100.16992883166657, "learning_rate": 0.012703336965904163, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.012895063484206215}
-Loss: 0.05469984449446201, Accuracy: 0.9875, F1: 0.9314285714285715
-Trial params: {"dropout": 0.23213208539551697, "ff_dim": 82.25315497200243, "learning_rate": 0.0016973439683830378, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.002288286236664678}
-Loss: 4.537825584411621, Accuracy: 0.30625, F1: 0.25702469573437314
+Trial params: {"dropout": 0.11204224896794167, "ff_dim": 48.51769748480072, "learning_rate": 0.014393624502782395, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.009088676868585697}
+Loss: 0.9763424261363551, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.43675869825668434, "ff_dim": 95.81838408661635, "learning_rate": 0.004672289204103134, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.005439390941222016}
+Loss: 1.1207537846271673, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.4168862890748085, "ff_dim": 80.43133834543924, "learning_rate": 0.09705486057718664, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.07028284924924748}
+Loss: 55.93363517312442, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.1432529083386089, "ff_dim": 117.1557230645234, "learning_rate": 0.0053124406984872245, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0016659334294589741}
+Loss: 5.235995591388029, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.21327388435066813, "ff_dim": 88.06467435186751, "learning_rate": 0.001358560086691911, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.03438401778654287}
+Loss: 0.11959510296069578, Accuracy: 0.9461192810457516, F1: 0.6264116928822808
+Trial params: {"dropout": 0.8991548404040882, "ff_dim": 44.7652325304515, "learning_rate": 0.0014630421423155275, "num_heads": 4, "num_transformer_blocks": 3, "weight_decay": 0.0012030117264264862}
+Loss: 1.7025664633249529, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.7105918245403987, "ff_dim": 120.72209953795361, "learning_rate": 0.003200942353515131, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.0025798395281942453}
+Loss: 2.0034242153167723, Accuracy: 0.1895424836601307, F1: 0.21339384274041678
+Trial params: {"dropout": 0.29905962361479965, "ff_dim": 43.51406833118537, "learning_rate": 0.008139522063078825, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0012535961488911941}
+Loss: 1.882401577251799, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.7250204618985204, "ff_dim": 113.8264550185726, "learning_rate": 0.004089465358954799, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.020088689551550798}
+Loss: 0.13205679627135397, Accuracy: 0.9684640522875817, F1: 0.8371851024792197
+Trial params: {"dropout": 0.7679714772364286, "ff_dim": 95.66346327655341, "learning_rate": 0.0014353563487751997, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.0009359968628558176}
+Loss: 2.264528294170604, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.6821703029076778, "ff_dim": 8.35601989419031, "learning_rate": 0.0010122781847980277, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.007858218828473445}
+Loss: 0.23846135788104114, Accuracy: 0.9313316993464053, F1: 0.7244815023297991
+Trial params: {"dropout": 0.6514546447002986, "ff_dim": 42.00532460262285, "learning_rate": 0.12232395720237946, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0017820451916530026}
+Loss: 0.8117808693396192, Accuracy: 0.9251633986928104, F1: 0.4404630663454193
+Trial params: {"dropout": 0.6217074497558135, "ff_dim": 22.434829279798933, "learning_rate": 0.0017455030418395807, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0032539553050672247}
+Loss: 0.10925305698833922, Accuracy: 0.9739787581699346, F1: 0.8561446300719654
+Trial params: {"dropout": 0.7996986254768704, "ff_dim": 24.193328392566748, "learning_rate": 0.006450526458672215, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.038044342642618134}
+Loss: 0.23582176744239405, Accuracy: 0.9406045751633987, F1: 0.6165604003839295
+Trial params: {"dropout": 0.4498466652588038, "ff_dim": 111.30894966243972, "learning_rate": 0.02207391968214186, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.132458098183412}
+Loss: 0.5401384118725272, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.43673455761083113, "ff_dim": 13.282467504499277, "learning_rate": 0.00136224630742491, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.013996628940834265}
+Loss: 0.4355741891571704, Accuracy: 0.9045751633986928, F1: 0.6642379458296412
+Trial params: {"dropout": 0.881245121526476, "ff_dim": 46.00685346795095, "learning_rate": 0.0012791304490028326, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.00913927751986739}
+Loss: 0.5089265433497263, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.4516824727413885, "ff_dim": 41.4945840727084, "learning_rate": 0.013064736104202642, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.007253006567488467}
+Loss: 0.579793061995331, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.8071626818877071, "ff_dim": 28.708038923245837, "learning_rate": 0.010700480098545911, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.0023351213478400063}
+Loss: 0.3521805127860218, Accuracy: 0.9435457516339869, F1: 0.6426280908633847
+Trial params: {"dropout": 0.2273503780711609, "ff_dim": 95.13349768689251, "learning_rate": 0.00097122544003163, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.002609600702794151}
+Loss: 5.052256455140955, Accuracy: 0.24048202614379083, F1: 0.2228731001770831
+Trial params: {"dropout": 0.5741045768145632, "ff_dim": 65.09852853186084, "learning_rate": 0.0025630742250239043, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.030800949613353425}
+Loss: 0.26333884656298945, Accuracy: 0.9335375816993464, F1: 0.5020694338341397
+Trial params: {"dropout": 0.5623930722762096, "ff_dim": 68.16628316303544, "learning_rate": 0.0022935823188679583, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0038795614946318833}
+Loss: 0.11345256485630457, Accuracy: 0.972875816993464, F1: 0.8576533385875943
+Trial params: {"dropout": 0.5658638525528548, "ff_dim": 66.47326250317506, "learning_rate": 0.0022609425610047996, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.004344920511427738}
+Loss: 2.546128993174609, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.5734628383060176, "ff_dim": 57.887414405439884, "learning_rate": 0.03722563484779201, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0039033000257956037}
+Loss: 3.913626421199125, Accuracy: 0.6463643790849674, F1: 0.37172666243481717
+Trial params: {"dropout": 0.3537767252657834, "ff_dim": 74.81438533038322, "learning_rate": 0.0025100540191311327, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0039139922808576755}
+Loss: 2.1827128957737894, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.5954354337511576, "ff_dim": 28.214600788551337, "learning_rate": 0.04415735993112435, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0153850025298018}
+Loss: 1.4293419722182295, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.5170287736125652, "ff_dim": 57.31319423806933, "learning_rate": 0.0018930477430443313, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.005553808570311311}
+Loss: 1.7716668373083366, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.6214652248116382, "ff_dim": 76.95692932107983, "learning_rate": 0.0034990026550541778, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.003278613159223174}
+Loss: 2.367257651905803, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.5237534782595752, "ff_dim": 57.59484223690423, "learning_rate": 0.009111320834441657, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.0017995406853922192}
+Loss: 1.358654144231011, Accuracy: 0.6018790849673202, F1: 0.34002232268375215
+Trial params: {"dropout": 0.3400372156967002, "ff_dim": 21.243081592868833, "learning_rate": 0.019520400486333626, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.00614523950212916}
+Loss: 0.20335378780522767, Accuracy: 0.9533905228758169, F1: 0.7774171426420555
+Trial params: {"dropout": 0.8622506447415856, "ff_dim": 105.68444232026854, "learning_rate": 0.0064706232128720976, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.010378533858883507}
+Loss: 0.23604559876049908, Accuracy: 0.9265522875816993, F1: 0.46213100624865316
+Trial params: {"dropout": 0.49045036127387165, "ff_dim": 34.41877718813222, "learning_rate": 0.0018935005436744212, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.001276069530469596}
+Loss: 1.9819950201932122, Accuracy: 0.48566176470588235, F1: 0.2933115411995814
+Trial params: {"dropout": 0.6606782357197103, "ff_dim": 86.01443983257491, "learning_rate": 0.0009338748494525855, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.02119461446582775}
+Loss: 0.1686924570294864, Accuracy: 0.9500816993464052, F1: 0.7732496261908021
+Trial params: {"dropout": 0.3715900898902552, "ff_dim": 15.626882665300158, "learning_rate": 0.005557542043055532, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.0009575331461144499}
+Loss: 0.25382029495256786, Accuracy: 0.9254493464052287, F1: 0.7002215794484957
+Trial params: {"dropout": 0.500784920217235, "ff_dim": 52.6630963140502, "learning_rate": 0.004472534140884691, "num_heads": 4, "num_transformer_blocks": 2, "weight_decay": 0.0029118574127980205}
+Loss: 0.2714950102655327, Accuracy: 0.9288398692810457, F1: 0.7109004872381303
+Trial params: {"dropout": 0.758338252924784, "ff_dim": 73.16974713544715, "learning_rate": 0.002989828641092872, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.004634836441274568}
+Loss: 0.5553297337363748, Accuracy: 0.8685457516339868, F1: 0.5993469559841804
+Trial params: {"dropout": 0.2862055712505737, "ff_dim": 35.203550744082115, "learning_rate": 0.06980806130443826, "num_heads": 2, "num_transformer_blocks": 1, "weight_decay": 0.07083718206076052}
+Loss: 15.388553350112018, Accuracy: 0.1164624183006536, F1: 0.19952103244490774
+Trial params: {"dropout": 0.11202269977177098, "ff_dim": 88.4427761662536, "learning_rate": 0.0017847350254894033, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.002123094606680677}
+Loss: 0.3647042287842316, Accuracy: 0.9244281045751633, F1: 0.6991734789421908
+Trial params: {"dropout": 0.7079607480604664, "ff_dim": 105.5571756756278, "learning_rate": 0.018390844271522874, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.012926812283205042}
+Loss: 2.8090086242731878, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.3920555200182067, "ff_dim": 51.56603786357629, "learning_rate": 0.0010921002094096584, "num_heads": 8, "num_transformer_blocks": 2, "weight_decay": 0.006760855466600929}
+Loss: 0.24518972032389738, Accuracy: 0.9180964052287581, F1: 0.3783065953654189
+Trial params: {"dropout": 0.615295030341633, "ff_dim": 127.34105316537436, "learning_rate": 0.003734705123075047, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.0012565174733239213}
+Loss: 1.423067217013415, Accuracy: 0.6162173202614379, F1: 0.35341229767657184
+Trial params: {"dropout": 0.8382260401495643, "ff_dim": 63.36293139014162, "learning_rate": 0.007687665099489233, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0033180927686693876}
+Loss: 20.354544718125286, Accuracy: 0.11572712418300653, F1: 0.1994573412092988
+Trial params: {"dropout": 0.744494219993243, "ff_dim": 80.92562028006921, "learning_rate": 0.033372260645514115, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.0015395000572752252}
+Loss: 0.6771142658065347, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.16004094710416328, "ff_dim": 70.87811157281484, "learning_rate": 0.0017176760418996357, "num_heads": 8, "num_transformer_blocks": 1, "weight_decay": 0.0009332341654462347}
+Loss: 1.4945090622148076, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.6772396905137451, "ff_dim": 80.65212988722988, "learning_rate": 0.005067359505700447, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.005112104864378895}
+Loss: 13.369770330541273, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.5347328954439441, "ff_dim": 34.45467108032627, "learning_rate": 0.0029637828862427765, "num_heads": 4, "num_transformer_blocks": 1, "weight_decay": 0.019703833419601146}
+Loss: 3.756953836188597, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.6282971116529307, "ff_dim": 15.250300149629297, "learning_rate": 0.001308706350957034, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.0569961463564845}
+Loss: 0.10993192926398479, Accuracy: 0.9500816993464052, F1: 0.6575800669918314
+Trial params: {"dropout": 0.7941636391735933, "ff_dim": 11.843016610839166, "learning_rate": 0.001169873091550689, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.13480623390420782}
+Loss: 0.053147243861766426, Accuracy: 0.9816993464052287, F1: 0.8865132483817602
+Trial params: {"dropout": 0.7954505960885161, "ff_dim": 9.329691954419943, "learning_rate": 0.0010770965667748272, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.09642096153056476}
+Loss: 0.710009733390037, Accuracy: 0.8861111111111111, F1: 0.003361344537815126
+Trial params: {"dropout": 0.8309300779770258, "ff_dim": 21.64499151419439, "learning_rate": 0.013106020839407732, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.04827316260031233}
+Loss: 0.36115653453504337, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.6919189741992686, "ff_dim": 10.933814463188643, "learning_rate": 0.0015347295021919092, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.10161845896258645}
+Loss: 0.14824385336216758, Accuracy: 0.9519199346405228, F1: 0.7778533709557199
+Trial params: {"dropout": 0.7265566332539939, "ff_dim": 19.160114030738935, "learning_rate": 0.09735220023935462, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.03163516528914692}
+Loss: 1.003651663634296, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.8964238509041333, "ff_dim": 39.5494888667168, "learning_rate": 0.0009251257499256377, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.025586935111555145}
+Loss: 0.06701508186798652, Accuracy: 0.9798611111111111, F1: 0.8741795152175772
+Trial params: {"dropout": 0.8815468424097856, "ff_dim": 40.68458519079671, "learning_rate": 0.0659372464887612, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.13304372726429053}
+Loss: 4.672519237854901, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.8957652528095638, "ff_dim": 27.231166176853048, "learning_rate": 0.025131823664412085, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.02572651261421591}
+Loss: 0.4010263095883762, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.7830246759134261, "ff_dim": 48.828588253219436, "learning_rate": 0.0011862187194341903, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.04588028038425067}
+Loss: 0.5877622757073121, Accuracy: 0.8872140522875817, F1: 0.01764705882352941
+Trial params: {"dropout": 0.8438090419008528, "ff_dim": 37.037430567494475, "learning_rate": 0.01070180610772766, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.06704167638623018}
+Loss: 0.5975933642948374, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.8209837420956493, "ff_dim": 31.409618201766243, "learning_rate": 0.0009307289604003954, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.10931360024458109}
+Loss: 0.12878036178705823, Accuracy: 0.9497957516339869, F1: 0.6506832383302968
+Trial params: {"dropout": 0.8948926538616906, "ff_dim": 45.90993366922213, "learning_rate": 0.002100901530319495, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.03843400154082541}
+Loss: 2.0637667981140484, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.8650649694265713, "ff_dim": 61.85698838240646, "learning_rate": 0.015988273658444303, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.017577953643406568}
+Loss: 85.30801221062156, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.4763243117435392, "ff_dim": 39.4657345848385, "learning_rate": 0.13418162759304747, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.02758105421301151}
+Loss: 4.2337637143976545, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.7747230509343312, "ff_dim": 8.350471038336282, "learning_rate": 0.0027410651266124536, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.08506312503531926}
+Loss: 0.30337419360876083, Accuracy: 0.8910539215686274, F1: 0.6132347838931336
+Trial params: {"dropout": 0.7293524238169614, "ff_dim": 24.849459816845915, "learning_rate": 0.0015742982503668729, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.008097201002790507}
+Loss: 0.17629348490953922, Accuracy: 0.9417075163398693, F1: 0.5716521387109621
+Trial params: {"dropout": 0.26100872832041183, "ff_dim": 17.014013686230207, "learning_rate": 0.006223383110304345, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.00979073801002162}
+Loss: 0.18481476835577804, Accuracy: 0.927001633986928, F1: 0.5016081304316599
+Trial params: {"dropout": 0.6425122422935718, "ff_dim": 53.4330800925949, "learning_rate": 0.004076763978472597, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.12134669029415239}
+Loss: 0.4472274261362412, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.5945448904568094, "ff_dim": 32.08523225218606, "learning_rate": 0.0022594256357505245, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.011257580261127656}
+Loss: 0.06144178225384916, Accuracy: 0.972875816993464, F1: 0.8239234199095787
+Trial params: {"dropout": 0.41548217942365057, "ff_dim": 30.389217860181, "learning_rate": 0.000925307214268723, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.01173891253492917}
+Loss: 8.737125245262595, Accuracy: 0.1190359477124183, F1: 0.1999017995212206
+Trial params: {"dropout": 0.587762365570769, "ff_dim": 25.892887036558044, "learning_rate": 0.003408879261655868, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.015268639126700703}
+Loss: 0.6719271754517274, Accuracy: 0.744812091503268, F1: 0.44166242815221773
+Trial params: {"dropout": 0.5516218447793764, "ff_dim": 11.825055310176886, "learning_rate": 0.0012264520218556317, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.02356887767043056}
+Loss: 0.17329636439133217, Accuracy: 0.9581699346405228, F1: 0.8046530073055296
+Trial params: {"dropout": 0.7567818565792591, "ff_dim": 43.28019351017934, "learning_rate": 0.0023713248076352622, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.03653094870640306}
+Loss: 0.0636698451533448, Accuracy: 0.9770016339869281, F1: 0.8578453803021272
+Trial params: {"dropout": 0.6634664371334068, "ff_dim": 47.12316015536508, "learning_rate": 0.002174390190704549, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.04153708909997559}
+Loss: 3.4168307851342594, Accuracy: 0.8857434640522875, F1: 0.0
+Trial params: {"dropout": 0.7504398910640896, "ff_dim": 32.284097158717756, "learning_rate": 0.008122288778817184, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.057830672257858096}
+Loss: 3.22172072354485, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.6050109226399405, "ff_dim": 19.050070362023803, "learning_rate": 0.0044692950997048215, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.08605139113347414}
+Loss: 2.5465265610638785, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.7081437946552871, "ff_dim": 49.129539241911715, "learning_rate": 0.002439278269155109, "num_heads": 2, "num_transformer_blocks": 2, "weight_decay": 0.03165359770808082}
+Loss: 0.33736823865157717, Accuracy: 0.922875816993464, F1: 0.7059077154861161
+Trial params: {"dropout": 0.6916166502518952, "ff_dim": 43.01428935318612, "learning_rate": 0.0019698984439421685, "num_heads": 2, "num_transformer_blocks": 3, "weight_decay": 0.008206002189900754}
+Loss: 32.50477907517377, Accuracy: 0.11425653594771241, F1: 0.19914453387409117
+Trial params: {"dropout": 0.8078619250031889, "ff_dim": 37.26879070307262, "learning_rate": 0.003868386286286531, "num_heads": 8, "num_transformer_blocks": 3, "weight_decay": 0.017486748822193535}
